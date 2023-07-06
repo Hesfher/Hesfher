@@ -1,4 +1,4 @@
-## 👾 Sla
+## 👾
 
  <div>
    <a href="https://github.com/Hesfher">
