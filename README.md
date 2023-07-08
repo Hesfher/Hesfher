@@ -1,4 +1,5 @@
-## 👾 Estudante iniciante em programação, foco atual em HTML, CSS e JS. Email: kakuygoodofgames@gmail.com
+## 👾 Estudante iniciante em programação, foco atual em HTML, CSS e JS.
+Email: kakuygoodofgames@gmail.com
 
  <div>
    <a href="https://github.com/Hesfher">
