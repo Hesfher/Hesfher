@@ -1,4 +1,4 @@
-## 👾
+## 👾 Estudante iniciante em programação, foco atual em HTML, CSS e JS.
 
  <div>
    <a href="https://github.com/Hesfher">
