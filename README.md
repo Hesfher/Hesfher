@@ -1,4 +1,4 @@
-## 👾 Estudante de programação com foco atual em HTML, CSS e JS.
+## 👾 Estudante de programação com foco atual em HTML5, CSS3 e JS.
 Email: kakuygoodofgames@gmail.com
 
  <div>
